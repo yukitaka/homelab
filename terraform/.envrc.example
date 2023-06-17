@@ -1,0 +1,4 @@
+export TF_VAR_master=0.0.0.0
+export TF_VAR_username=name
+export TF_VAR_private_key=`cat ~/.ssh/id_rsa`
+
